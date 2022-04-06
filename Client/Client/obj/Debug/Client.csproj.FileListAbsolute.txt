@@ -1,0 +1,59 @@
+G:\Szkoła\APLIKACJE SERWEROWE\Koszałka\Client\Client\bin\Debug\Client.exe.config
+G:\Szkoła\APLIKACJE SERWEROWE\Koszałka\Client\Client\bin\Debug\Client.exe
+G:\Szkoła\APLIKACJE SERWEROWE\Koszałka\Client\Client\bin\Debug\Client.pdb
+G:\Szkoła\APLIKACJE SERWEROWE\Koszałka\Client\Client\obj\Debug\Client.csprojAssemblyReference.cache
+G:\Szkoła\APLIKACJE SERWEROWE\Koszałka\Client\Client\obj\Debug\Client.Client.resources
+G:\Szkoła\APLIKACJE SERWEROWE\Koszałka\Client\Client\obj\Debug\Client.Properties.Resources.resources
+G:\Szkoła\APLIKACJE SERWEROWE\Koszałka\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+G:\Szkoła\APLIKACJE SERWEROWE\Koszałka\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+G:\Szkoła\APLIKACJE SERWEROWE\Koszałka\Client\Client\obj\Debug\Client.exe
+G:\Szkoła\APLIKACJE SERWEROWE\Koszałka\Client\Client\obj\Debug\Client.pdb
+E:\Szkoła\APLIKACJE SERWEROWE\Koszałka\Client\Client\bin\Debug\Client.exe.config
+E:\Szkoła\APLIKACJE SERWEROWE\Koszałka\Client\Client\bin\Debug\Client.exe
+E:\Szkoła\APLIKACJE SERWEROWE\Koszałka\Client\Client\bin\Debug\Client.pdb
+E:\Szkoła\APLIKACJE SERWEROWE\Koszałka\Client\Client\obj\Debug\Client.csprojAssemblyReference.cache
+E:\Szkoła\APLIKACJE SERWEROWE\Koszałka\Client\Client\obj\Debug\Client.Client.resources
+E:\Szkoła\APLIKACJE SERWEROWE\Koszałka\Client\Client\obj\Debug\Client.Properties.Resources.resources
+E:\Szkoła\APLIKACJE SERWEROWE\Koszałka\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+E:\Szkoła\APLIKACJE SERWEROWE\Koszałka\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\Szkoła\APLIKACJE SERWEROWE\Koszałka\Client\Client\obj\Debug\Client.exe
+E:\Szkoła\APLIKACJE SERWEROWE\Koszałka\Client\Client\obj\Debug\Client.pdb
+G:\Szkoła\APLIKACJE SERWEROWE\Koszałka\Lacki_Kleszczu_3ic2_chat\Client\Client\bin\Debug\Client.exe.config
+G:\Szkoła\APLIKACJE SERWEROWE\Koszałka\Lacki_Kleszczu_3ic2_chat\Client\Client\bin\Debug\Client.exe
+G:\Szkoła\APLIKACJE SERWEROWE\Koszałka\Lacki_Kleszczu_3ic2_chat\Client\Client\bin\Debug\Client.pdb
+G:\Szkoła\APLIKACJE SERWEROWE\Koszałka\Lacki_Kleszczu_3ic2_chat\Client\Client\obj\Debug\Client.csprojAssemblyReference.cache
+G:\Szkoła\APLIKACJE SERWEROWE\Koszałka\Lacki_Kleszczu_3ic2_chat\Client\Client\obj\Debug\Client.Client.resources
+G:\Szkoła\APLIKACJE SERWEROWE\Koszałka\Lacki_Kleszczu_3ic2_chat\Client\Client\obj\Debug\Client.Properties.Resources.resources
+G:\Szkoła\APLIKACJE SERWEROWE\Koszałka\Lacki_Kleszczu_3ic2_chat\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+G:\Szkoła\APLIKACJE SERWEROWE\Koszałka\Lacki_Kleszczu_3ic2_chat\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+G:\Szkoła\APLIKACJE SERWEROWE\Koszałka\Lacki_Kleszczu_3ic2_chat\Client\Client\obj\Debug\Client.exe
+G:\Szkoła\APLIKACJE SERWEROWE\Koszałka\Lacki_Kleszczu_3ic2_chat\Client\Client\obj\Debug\Client.pdb
+G:\Szkoła\APLIKACJE SERWEROWE\Koszałka\Projekty\Lacki_Kleszczu_3ic2_chat\Client\Client\bin\Debug\Client.exe.config
+G:\Szkoła\APLIKACJE SERWEROWE\Koszałka\Projekty\Lacki_Kleszczu_3ic2_chat\Client\Client\bin\Debug\Client.exe
+G:\Szkoła\APLIKACJE SERWEROWE\Koszałka\Projekty\Lacki_Kleszczu_3ic2_chat\Client\Client\bin\Debug\Client.pdb
+G:\Szkoła\APLIKACJE SERWEROWE\Koszałka\Projekty\Lacki_Kleszczu_3ic2_chat\Client\Client\obj\Debug\Client.csprojAssemblyReference.cache
+G:\Szkoła\APLIKACJE SERWEROWE\Koszałka\Projekty\Lacki_Kleszczu_3ic2_chat\Client\Client\obj\Debug\Client.Client.resources
+G:\Szkoła\APLIKACJE SERWEROWE\Koszałka\Projekty\Lacki_Kleszczu_3ic2_chat\Client\Client\obj\Debug\Client.Properties.Resources.resources
+G:\Szkoła\APLIKACJE SERWEROWE\Koszałka\Projekty\Lacki_Kleszczu_3ic2_chat\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+G:\Szkoła\APLIKACJE SERWEROWE\Koszałka\Projekty\Lacki_Kleszczu_3ic2_chat\Client\Client\obj\Debug\Client.exe
+G:\Szkoła\APLIKACJE SERWEROWE\Koszałka\Projekty\Lacki_Kleszczu_3ic2_chat\Client\Client\obj\Debug\Client.pdb
+C:\Users\Jakub\Desktop\Client\Client\bin\Debug\Client.exe.config
+C:\Users\Jakub\Desktop\Client\Client\bin\Debug\Client.exe
+C:\Users\Jakub\Desktop\Client\Client\bin\Debug\Client.pdb
+C:\Users\Jakub\Desktop\Client\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\Jakub\Desktop\Client\Client\obj\Debug\Client.Client.resources
+C:\Users\Jakub\Desktop\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Jakub\Desktop\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Jakub\Desktop\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Jakub\Desktop\Client\Client\obj\Debug\Client.exe
+C:\Users\Jakub\Desktop\Client\Client\obj\Debug\Client.pdb
+D:\PROJECTS\Komunikator_C#\Client\Client\bin\Debug\Client.exe.config
+D:\PROJECTS\Komunikator_C#\Client\Client\bin\Debug\Client.exe
+D:\PROJECTS\Komunikator_C#\Client\Client\bin\Debug\Client.pdb
+D:\PROJECTS\Komunikator_C#\Client\Client\obj\Debug\Client.csprojAssemblyReference.cache
+D:\PROJECTS\Komunikator_C#\Client\Client\obj\Debug\Client.Client.resources
+D:\PROJECTS\Komunikator_C#\Client\Client\obj\Debug\Client.Properties.Resources.resources
+D:\PROJECTS\Komunikator_C#\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+D:\PROJECTS\Komunikator_C#\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\PROJECTS\Komunikator_C#\Client\Client\obj\Debug\Client.exe
+D:\PROJECTS\Komunikator_C#\Client\Client\obj\Debug\Client.pdb
